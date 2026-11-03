@@ -26,5 +26,6 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Structure and create Organizational Unit
+* Create users in thier expected Oragnazational Unit
+* Dicover a user was in a wrong Organizational Unit and move the user in the good Organizational Unit and change the security group of this user
